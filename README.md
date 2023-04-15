@@ -1,6 +1,10 @@
 
 
 👋 Hi there! I'm Chaehwi. I love coding and creating things. Check out my projects on GitHub. 🚀
+<br>
+<br>
+<br>
+반갑습니다! 백엔드를 공부하고 있는 황채휘입니다.🌱
 
 <!--
 **chaehwi/chaehwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
