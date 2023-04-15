@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehwi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehwi&show_icons=true&theme=vue)
